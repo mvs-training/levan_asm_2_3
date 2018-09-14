@@ -1,1 +1,1 @@
-B‡i 1, 3 thu m?c m?c dinh tÏm ki?m trong emu8086 l‡ c:/emu8086/MyBuilt
+B√†i 1, 2 thu m?c m?c dinh t√¨m ki?m trong emu8086 l√† c:/emu8086/MyBuilt
